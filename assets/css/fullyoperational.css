@@ -8,6 +8,25 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
 
+@media (max-width: 480px) {
+	button:hover {
+		color: #dadada;
+	}
+	
+	button:visited {
+		color: #dadada;
+	}
+	
+	button:active {
+		color: #dadada;
+	}
+	
+	.BigWords {
+		font-size: 10 px;
+	}
+}
+
+
 a {
 	color: #000000;
 	font-variant: normal;
