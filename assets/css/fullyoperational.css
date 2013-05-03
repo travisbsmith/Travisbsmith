@@ -1,0 +1,119 @@
+/*!
+ * Bootstrap v2.3.0
+ *
+ * Copyright 2012 Twitter, Inc
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Designed and built with all the love in the world @twitter by @mdo and @fat.
+ */
+
+a {
+	color: #000000;
+	font-variant: normal;
+}
+
+a:hover {
+  color: #000000;
+  background-color: lime;
+  text-decoration: none;  
+}
+
+a:visted {
+	color: fuchsia;
+	background-color: lime;
+}
+
+p {
+	color: black;
+}
+
+ul {
+	color: white;
+}
+
+body {
+/* 	background-color: rgba(240,91,91,0.56); */
+/* 	background-color: rgba(122,153,152,1); */
+	background-color: #dadada;
+	margin: 15px;
+}
+
+button {
+	background-color: transparent;
+	font-family: inherit;
+	outline: none;
+	border: transparent;
+	text-align: left;
+}
+
+button:hover {
+	background-color: lime;
+	text-decoration: none;
+/* 	padding: 5px; */
+}
+
+button:active {
+	background-color: lime;
+}
+
+header h1 {
+	color: #ffffff;
+	display: block;
+}
+
+.carousel img {
+	margin: 0 auto;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.img-circle {
+  height: 100px;
+}
+
+.BigWords p {
+	font-size: 50px;
+	line-height: 69px;
+}
+
+.BigWords a:hover {
+	background-color: #fbff00;
+	
+}
+
+.about p {
+	display: inline;
+	color: #000000;
+	font-size: 16px;
+	line-height: 10px;
+	margin-bottom: 5px;
+}
+
+well {
+	background: transparent;
+
+}
+
+.carousel-caption a {
+	color: white;
+}
+
+.footer p {
+	color: gray;
+	
+}
+
+.footer a {
+	color: gray;
+}
+
+.experience li {
+	color: black;
+}
